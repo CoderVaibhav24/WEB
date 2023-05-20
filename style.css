@@ -7,7 +7,7 @@
 }
 
 .navbar {
-    background-color: black;
+    background-image: url(circular-randomized-colors.gif);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -64,7 +64,7 @@
 
 #search-box{
     height: 30px;
-    width: auto !important;
+    width: 160px;
     border-radius: 100px; 
 }
 
